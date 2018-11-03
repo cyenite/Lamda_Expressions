@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Akron1\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Akron1\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Akron1\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Lamda e.-166922287.00" t="ExcludeRecursive" />
+    <e p="E:\Projects\Lamda e" t="IncludeFlat">
+      <e p="Lamda e" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Lamda e.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Lamda e.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Lamda e.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
