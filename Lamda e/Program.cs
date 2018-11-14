@@ -15,12 +15,12 @@ namespace Lamda_e
 
             for (int a = 0; a < 100; a++)
             {
-                //  names.Add($"Name{a}");
+           
                 names.Add("Name" + a);
             }
 
             var result = names.Where(w => (w.EndsWith("2")));
-            //var result = names.Where(My_Function);
+           
 
             foreach (var item in result)
             {
