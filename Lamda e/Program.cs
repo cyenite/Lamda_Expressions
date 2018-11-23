@@ -25,6 +25,7 @@ namespace Lamda_e
             foreach (var item in result)
             {
                 Console.WriteLine(item);
+                //lists all items in result
             }
 
             Console.ReadKey();
